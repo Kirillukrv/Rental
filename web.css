@@ -1,0 +1,19 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+  .navbar, .navbar-expand-lg, .navbar-light .bg-light {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+  }
+
+.registr {
+    background-color: rgb(157, 157, 164) !important;
+    width: 50% !important;
+    margin-left: 25% !important;
+   
+}
+
+.contact{
+    background-color: black;
+}
+
